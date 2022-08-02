@@ -1,0 +1,105 @@
+body {
+    background-color: white;
+    margin: 0;
+}
+
+#header{
+    font-weight: bold;
+    background-color: black;
+    font-size: 15px;
+    color: white;
+
+    height: 800px;
+}
+
+.wrapper{
+    width: 100%;
+    min-height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.lists {
+    display: flex;
+    margin-right: 20px;
+}
+
+.title {
+    font-size: 30px;
+    margin-left: 30px;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    margin-right: 20px;
+    text-decoration: none;
+    color: white;
+}
+
+/* Body */
+#body {
+    color: black;
+    font-size: 30;
+    text-align: center;
+    margin: 30px;
+}
+
+/* .title-box {
+    font-weight: bold;
+    background-color: black;
+    font-size: 30px;
+    color: white;
+
+    height: 500px;
+    border-radius: 10px;
+} */
+
+.main-title-box {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+
+    box-sizing: border-box;
+    background-color: black;
+
+    height: 300px;
+    margin-top: 200px;
+}
+
+p > img {
+    width: 100px;
+    height: 100px;
+    align-items: center;
+
+    padding-bottom: 5px;
+}
+
+/* footer */
+#footer{
+    font-weight: bold;
+    background-color: black;
+    font-size: 15px;
+    color: white;
+
+    height: 150px;
+}
+
+.footer-title-box {
+    color: white;
+    font-size: 10px;
+    text-align: center;
+
+    box-sizing: border-box;
+    background-color: black;
+
+    padding-top: 60px;
+}
+
+.footer-account {
+    text-align: center;
+    margin-top: 40px;
+}
