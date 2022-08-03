@@ -3,8 +3,11 @@ body {
     margin: 0;
 }
 
-#header{
+* {
     font-weight: bold;
+}
+
+#header{
     background-color: black;
     font-size: 15px;
     color: white;
@@ -48,16 +51,6 @@ a {
     margin: 30px;
 }
 
-/* .title-box {
-    font-weight: bold;
-    background-color: black;
-    font-size: 30px;
-    color: white;
-
-    height: 500px;
-    border-radius: 10px;
-} */
-
 .main-title-box {
     color: white;
     font-size: 20px;
@@ -78,9 +71,32 @@ p > img {
     padding-bottom: 5px;
 }
 
+.profile-box {
+    background-color: black;
+    font-size: 30px;
+    color: white;
+
+    height: 500px;
+    width: 450px;
+    border-radius: 10px;
+
+    display: inline-block;
+}
+
+.description-box {
+    background-color: black;
+    font-size: 30px;
+    color: white;
+
+    height: 500px;
+    width: 1000px;
+    border-radius: 10px;
+
+    display: inline-block;
+}
+
 /* footer */
-#footer{
-    font-weight: bold;
+#footer {
     background-color: black;
     font-size: 15px;
     color: white;
