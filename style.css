@@ -73,7 +73,6 @@ p > img {
 
 .profile-box {
     background-color: black;
-    font-size: 30px;
     color: white;
 
     height: 500px;
@@ -81,18 +80,8 @@ p > img {
     border-radius: 10px;
 
     display: inline-block;
-}
 
-.description-box {
-    background-color: black;
-    font-size: 30px;
-    color: white;
-
-    height: 500px;
-    width: 1000px;
-    border-radius: 10px;
-
-    display: inline-block;
+    margin-right: 1000px;
 }
 
 /* footer */
