@@ -80,8 +80,30 @@ p > img {
     border-radius: 10px;
 
     display: inline-block;
+    float: left;
+}
 
-    margin-right: 1000px;
+.description-box {
+    background-color: black;
+    color: white;
+
+    height: 240px;
+    width: 1000px;
+    border-radius: 10px;
+
+    display: inline-block;
+}
+
+.moredes-box {
+    background-color: black;
+    color: white;
+
+    height: 240px;
+    width: 1000px;
+    border-radius: 10px;
+
+    display: inline-block;
+    margin-top: 20px;
 }
 
 /* footer */
