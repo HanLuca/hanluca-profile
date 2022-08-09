@@ -1,0 +1,61 @@
+#body {
+    color: black;
+    font-size: 30;
+    text-align: center;
+    margin: 30px;
+}
+
+.main-title-box {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+
+    box-sizing: border-box;
+    background-color: black;
+
+    height: 300px;
+    margin-top: 200px;
+}
+
+p > img {
+    width: 100px;
+    height: 100px;
+    align-items: center;
+
+    padding-bottom: 5px;
+}
+
+.profile-box {
+    background-color: black;
+    color: white;
+
+    height: 500px;
+    width: 450px;
+    border-radius: 10px;
+
+    display: inline-block;
+    float: left;
+}
+
+.description-box {
+    background-color: black;
+    color: white;
+
+    height: 240px;
+    width: 1000px;
+    border-radius: 10px;
+
+    display: inline-block;
+}
+
+.moredes-box {
+    background-color: black;
+    color: white;
+
+    height: 240px;
+    width: 1000px;
+    border-radius: 10px;
+
+    display: inline-block;
+    margin-top: 20px;
+}

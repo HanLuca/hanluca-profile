@@ -1,0 +1,23 @@
+#footer {
+    background-color: black;
+    font-size: 15px;
+    color: white;
+
+    height: 150px;
+}
+
+.footer-title-box {
+    color: white;
+    font-size: 10px;
+    text-align: center;
+
+    box-sizing: border-box;
+    background-color: black;
+
+    padding-top: 60px;
+}
+
+.footer-account {
+    text-align: center;
+    margin-top: 40px;
+}
