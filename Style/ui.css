@@ -1,0 +1,39 @@
+/* UI Basic */
+button {
+    background-color: none;
+    color: white;
+    border: 0;
+}
+
+.pop-dev-box {
+    background-color: black;
+}
+
+/* Dev-Box UI */
+/* .dev-box-cancel {
+    background-color: gray;
+
+    align-items: center;
+    position: relative;
+    top: 250px;
+} */
+
+/* .ui-dev-box {
+    background-color: gray;
+    height: 300px;
+    width: 500px;
+
+    position: relative;
+    left: 520px;
+    top: -500px;
+
+    border-radius: 10px;
+    display: none;
+}  */
+
+/* .ui-dev-box-text {
+    font-size: 15px;
+    color: white;
+
+    text-align: center;
+} */ 
